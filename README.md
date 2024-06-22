@@ -7,10 +7,10 @@
 - *Creativity Boost*: Exercise your creativity by finding unique solutions to design problems.
 - *Problem-Solving*: Develop problem-solving skills in a fun and interactive way.
 ## Getting Started
-*1. Sign Up*: Create an account on the CSS Battle website.
-*2. Choose a Battle*: Select from various battles, each with a different design challenge.
-*3. Code*: Write your CSS code to replicate the given design as closely as possible.
-*4. Submit*: Submit your solution and see how it ranks against other players.
+ 1. **Sign Up**: Create an account on the CSS Battle website. 
+ 2. **Choose a Battle**: Select from various battles, each with a different design challenge.
+ 3. **Code**: Write your CSS code to replicate the given design as closely as possible.
+ 4. **Submit**: Submit your solution and see how it ranks against other players.
 ## How to Play
 1. View the target design.
 2.  Use the provided code editor to write your CSS.
