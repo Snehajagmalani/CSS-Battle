@@ -12,7 +12,8 @@
 *3. Code*: Write your CSS code to replicate the given design as closely as possible.
 *4. Submit*: Submit your solution and see how it ranks against other players.
 ## How to Play
-1. View the target design.*2. Use the provided code editor to write your CSS.
+1. View the target design.
+2.  Use the provided code editor to write your CSS.
 3. Submit your code to see if your design matches the target.
 4. Optimize your code to use the least amount of characters possible.
 
